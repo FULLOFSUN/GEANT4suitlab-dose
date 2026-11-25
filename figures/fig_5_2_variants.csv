@@ -1,0 +1,15 @@
+Variant,Solar activity,H (mSv/day),error (mSv/day)
+Baseline 4 mm Al-2219,solar min,0.9414,0.0148
++ 10 cm water (0.5 cm PE tank),solar min,0.5967,0.0132
++ 10 cm water (1 cm PE tank),solar min,0.5888,0.0129
++ 10 cm polyethylene,solar min,0.6182,0.0132
++ 10 cm regolith,solar min,0.6409,0.0139
++ 25 cm regolith,solar min,0.5636,0.0126
++ 1 m regolith,solar min,0.5409,0.0164
+Baseline 4 mm Al-2219,solar max,0.3982,0.0068
++ 10 cm water (0.5 cm PE tank),solar max,0.2885,0.0059
++ 10 cm water (1 cm PE tank),solar max,0.2881,0.0064
++ 10 cm polyethylene,solar max,0.2837,0.0056
++ 10 cm regolith,solar max,0.3140,0.0065
++ 25 cm regolith,solar max,0.3209,0.0070
++ 1 m regolith,solar max,0.3404,0.0082

@@ -1,0 +1,19 @@
+Material,Wall (g/cm²),H (mSv/day)
+Water,1.00,0.391
+Water,2.00,0.338
+Water,5.00,0.322
+Water,10.00,0.260
+Water,20.00,0.245
+Water,40.00,0.150
+Water,70.00,0.259
+Aluminium,1.00,0.400
+Aluminium,2.00,0.330
+Aluminium,5.00,0.359
+Aluminium,10.00,0.270
+Aluminium,20.00,0.311
+Aluminium,40.00,0.255
+Aluminium,70.00,0.341
+Lunar regolith,1.00,0.385
+Lunar regolith,5.00,0.352
+Lunar regolith,20.00,0.290
+Lunar regolith,70.00,0.334

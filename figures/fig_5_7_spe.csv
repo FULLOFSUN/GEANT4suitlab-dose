@@ -1,0 +1,8 @@
+Variant,H per event (mSv),error (mSv)
+Baseline 4 mm Al-2219,1209.6,40.4
++ 10 cm water (0.5 cm PE tank),36.5,2.7
++ 10 cm water (1 cm PE tank),27.4,2.3
++ 10 cm polyethylene,42.6,2.7
++ 10 cm regolith,33.5,3.9
++ 25 cm regolith,10.0,2.1
++ 1 m regolith,0.9,0.4

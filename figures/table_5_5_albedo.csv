@@ -1,0 +1,4 @@
+Ground model,D (mGy/day),H (mSv/day),H error (%),Nuclear share (%)
+No ground (sky scaled by 0.5),0.2270,0.8910,1.2,48
+"Regolith ground, ~0.35 m",0.2381,0.9414,1.6,50
+"Regolith ground, 1.5 m",0.2538,0.9830,2.0,51

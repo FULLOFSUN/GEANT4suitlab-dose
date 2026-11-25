@@ -1,0 +1,19 @@
+Material,Wall (g/cm²),Nuclear share (%)
+Water,1.00,49.6
+Water,2.00,52.0
+Water,5.00,58.2
+Water,10.00,65.7
+Water,20.00,75.3
+Water,40.00,91.2
+Water,70.00,91.6
+Aluminium,1.00,51.0
+Aluminium,2.00,45.2
+Aluminium,5.00,56.2
+Aluminium,10.00,66.7
+Aluminium,20.00,70.9
+Aluminium,40.00,86.2
+Aluminium,70.00,89.3
+Lunar regolith,1.00,49.1
+Lunar regolith,5.00,55.7
+Lunar regolith,20.00,71.0
+Lunar regolith,70.00,89.9
